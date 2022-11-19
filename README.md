@@ -1,0 +1,1 @@
+# Detection-of-Cracks-on-Turbine-Wing-with-Noise-Frequency-Using-ANN
